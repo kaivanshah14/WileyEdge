@@ -1,3 +1,3 @@
 # WileyEdge
 
-##This repository contains assignments and practice code during my internship at WileyEdge
+## This repository contains assignments and practice code during my internship at WileyEdge
