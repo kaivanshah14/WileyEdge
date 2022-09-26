@@ -1,6 +1,7 @@
 # Day 4 Assignment
 
 **1. Create a class BankAccount with following details:**
+
 	1. Attributes: accountId, accountHolderName, openingBalance, currentBalance, totalBalance.
 	2. Methods: 
 		- depositAmount(double amount) 
@@ -17,6 +18,7 @@
 
 		
 **2. Modify the above BankAccount by adding the accountType.** 
+
 	1. The accountType should be controlled by using the enum which should contain two values: savings and current account. 
 	2. If the accounttype is saving, the min balance should be 500, and if the accounttype is current account the min balance should be 1000. 
 	3. Validations:
