@@ -1,4 +1,4 @@
-##String - Day 7:
+**String - Day 7:**
 - Immutability
 - Heap and String pool
 - String Tokenizer
