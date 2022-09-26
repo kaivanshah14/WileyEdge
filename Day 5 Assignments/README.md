@@ -1,4 +1,4 @@
-**Day 5 Assignment: **
+**Day 5 Assignment:**
 
 Create Employee class with following details: 
 Attributes: 
