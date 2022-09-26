@@ -4,8 +4,7 @@
   - Attributes: radius, area
   - Methods  : calculateArea
   
-Create object of circle with given radius and calculate the area. 
-(Use the concept of parameterized constructor, code recommendation and this keyword)
+  - Create object of circle with given radius and calculate the area.  (Use the concept of parameterized constructor, code recommendation and this keyword)
 
 - Create a program to print Fibonacci series in the given range using the object oriented programming concept. 
 
