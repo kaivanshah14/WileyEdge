@@ -17,7 +17,7 @@
 		- You should not be able to withdraw the amount more than current balance. 
 
 		
-**2. Modify the above BankAccount by adding the accountType.** 
+**2. Modify the above BankAccount by adding the accountType:** 
 
 	1. The accountType should be controlled by using the enum which should contain two values: savings and current account. 
 	2. If the accounttype is saving, the min balance should be 500, and if the accounttype is current account the min balance should be 1000. 
